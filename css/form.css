@@ -1,0 +1,64 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    text-align: center;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
+
+nav {
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
+
+.button {
+    background: none!important;
+    border: none;
+    padding-top:8px!important;
+    /*optional*/
+    font-family: arial, sans-serif;
+    /*input has OS specific font-family*/
+    color: #069;
+    text-decoration: none;
+    cursor: pointer;
+}
+.page-footer {
+    background-color: #fcc169;
+    text-align: center;
+}
+
+.btnn {
+    margin-top: 2rem;
+}
+.card-header {
+    background-color: #fcc169;
+    color: whitesmoke;
+    text-align: center;
+}
+.navbar-brand {
+    background-color: #fcc169;
+
+}
+
+.main {
+    margin-top: 1rem;
+    width: 800px;
+    height: 500px;
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+    width:53rem;
+}
+td {
+    padding: 1rem;    
+}
+
+.label {
+    margin-top: 2rem;
+}
+
+table {
+    margin-top:4rem;
+}

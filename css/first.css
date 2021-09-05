@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    text-decoration: none;
+}
+
+.navbar-toggler {
+    position: relative;
+    /* left: 95%; */
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.carousel-item {
+    height: 35rem;
+}
+
+.navbar-brand {
+    width: 6rem;
+    height: 6rem;
+    padding: 0;
+    margin: 0;
+}
+
+.name {
+    display: inline;
+    padding-left: 6rem;
+    font-size: 1.85rem;
+    color: #fcc169;
+}
+
+.about {
+    text-align: justify;
+    padding-top: 50px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 80px;
+    font-weight: bold;
+    font-size: 21px;
+    color: whitesmoke;
+    background-color: #fcc169;
+}
+
+.contact {
+    padding-top: 50px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.heading {
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+.headings {
+    padding-bottom: 40px;
+    font-weight: bold;
+    font-size: 50px;
+    color: #fcc169;
+}
+.page-footer {
+    background-color: #fcc169;
+}
+
+.visit {
+    margin-top: 100px;
+    color: #fcc169;
+}
+.visits {
+    margin-top: 25px;
+    margin-right: 43px;
+    margin-left: 43px;
+}
+
+.btn {
+    background-color:#fcc169;
+    padding: 11px 50px;
+}
+
+@media only screen and (max-width: 600px) {
+    * {
+        padding: 0;
+        text-decoration: none;
+    }
+    
+    .navbar-toggler {
+        position: relative;
+        /* left: 95%; */
+    }
+    
+    .nav-item {
+        padding-left: 20px;
+    }
+    
+    .carousel-item {
+        height: 45rem;
+    }
+    
+    .navbar-brand {
+        width: 6rem;
+        height: 6rem;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .name {
+        display: inline;
+        padding-left: 6rem;
+        font-size: 1.85rem;
+        color: #fcc169;
+    }
+    
+    .about {
+        text-align: justify;
+        padding-top: 50px;
+        padding-left: 250px;
+        padding-right: 250px;
+        padding-bottom: 80px;
+        font-weight: bold;
+        font-size: 21px;
+        color: whitesmoke;
+        background-color: #fcc169;
+    }
+    
+    .contact {
+        padding-top: 50px;
+        padding-left: 250px;
+        padding-right: 250px;
+        padding-bottom: 100px;
+        text-align: center;
+    }
+    
+    .heading {
+        padding-bottom: 15px;
+        font-weight: bold;
+        font-size: 50px;
+        text-align: center;
+    }
+    .headings {
+        padding-bottom: 40px;
+        font-weight: bold;
+        font-size: 50px;
+        color: #fcc169;
+    }
+    .page-footer {
+        background-color: #fcc169;
+    }
+    
+    .visit {
+        margin-top: 100px;
+        color: #fcc169;
+    }
+    .visits {
+        margin-top: 25px;
+        margin-right: 43px;
+        margin-left: 43px;
+    }
+    
+    .btn {
+        background-color:#fcc169;
+        padding: 11px 50px;
+    }
+        
+}

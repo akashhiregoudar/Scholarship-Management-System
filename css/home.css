@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+
+.row {
+    padding: 25px 25px 10px 25px ;
+}
+.button {
+    background: none!important;
+    border: none;
+    padding-top:8px!important;
+    /*optional*/
+    font-family: arial, sans-serif;
+    /*input has OS specific font-family*/
+    color: #069;
+    text-decoration: none;
+    cursor: pointer;
+}
+.page-footer {
+    background-color: #fcc169;
+    text-align: center;
+}
+
+.card-header {
+    background-color: #fcc169;
+    color: whitesmoke;
+    text-align: center;
+}
+.navbar-brand {
+    background-color: #fcc169;
+    padding: 1rem;
+    color: whitesmoke;
+}
+
+.navbar-light .navbar-brand {
+    color: whitesmoke;
+}
+
+.navbar-collapse{
+    position: absolute;
+    right: 2rem;
+    color: #fcc169;
+}

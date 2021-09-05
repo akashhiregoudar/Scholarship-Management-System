@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: 0;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+nav {
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+td {
+    padding: 0;
+}
+
+
+.button {
+    background: none!important;
+    border: none;
+    padding-top:8px!important;
+    /*optional*/
+    font-family: arial, sans-serif;
+    /*input has OS specific font-family*/
+    color: #069;
+    text-decoration: none;
+    cursor: pointer;
+}
+.main {
+    margin-top: 33rem;
+    margin-bottom: 10rem;
+    background: whitesmoke;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+    padding: 3rem 5rem 3rem 5rem;
+}
+
+.form-control {
+    margin: 1rem;
+}
+
+.label {
+    margin-bottom: 1rem;
+}
+
+input {
+    margin-top: 0;
+    margin-bottom: 0;
+}

@@ -1,0 +1,26 @@
+* {
+    padding:0;
+    margin: 0px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    /* font-family: 'Viga', sans-serif; */
+}
+
+body {
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+    background-size: cover;
+
+}
+
+.hod {
+    padding: 2rem 6rem ;
+}
+
+.performance{
+    margin-bottom: 3px;
+}
+
+.page-footer {
+    background-color: #fcc169;
+}
